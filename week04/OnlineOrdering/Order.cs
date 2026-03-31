@@ -1,7 +1,7 @@
 public class Order
 {
     // Corrected code
-private List<Product> _products = new List<Product>();
+    private List<Product> _products = new List<Product>();
     Customer _customer;
 
     public Order (Customer customer)
